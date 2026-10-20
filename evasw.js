@@ -1,0 +1,1 @@
+importScripts('https://feldot.com/v1/sw-import.js?h=waWQiOjExNjg1OTcsInNpZCI6MTM2MDE3NCwid2lkIjo2MTYxOTgsInNyYyI6MiwicG0iOjAsIm10IjowfQ==eyJ&d=daitinglove.top');
